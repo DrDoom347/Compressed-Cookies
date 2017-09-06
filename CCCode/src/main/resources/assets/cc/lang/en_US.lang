@@ -1,8 +1,8 @@
-item.cc:compressed_cookie.name=Compressed Cookie
-item.cc:two_compressed_cookie.name=Double Compressed Cookie
-item.cc:three_compressed_cookie.name=Triple Compressed Cookie
-item.cc:four_compressed_cookie.name=Quadruple Compressed Cookie
-item.cc:five_compressed_cookie.name=Quintuple Compressed Cookie
-item.cc:six_compressed_cookie.name=Sextuple Compressed Cookie
-item.cc:seven_compressed_cookie.name=Septuple Compressed Cookie
-item.cc:eight_compressed_cookie.name=Octuple Compressed Cookie
+item.cc:cc.name=Compressed Cookie
+item.cc:cctwo.name=Double Compressed Cookie
+item.cc:ccthree.name=Triple Compressed Cookie
+item.cc:ccfour.name=Quadruple Compressed Cookie
+item.cc:ccfive.name=Quintuple Compressed Cookie
+item.cc:ccsix.name=Sextuple Compressed Cookie
+item.cc:ccseven.name=Septuple Compressed Cookie
+item.cc:cceight.name=Octuple Compressed Cookie

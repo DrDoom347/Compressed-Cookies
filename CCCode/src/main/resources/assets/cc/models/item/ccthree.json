@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "cc:items/eight_compressed_cookie"
+        "layer0": "cc:items/ccthree"
     },
     "display": {
         "thirdperson": {
